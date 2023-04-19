@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourPillarsApp", "FourPillarsApp\FourPillarsApp.csproj", "{9C66945F-5134-4B36-A3DF-11E861ADBEF0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FourPillarsTests", "ClassStructsTests\FourPillarsTests.csproj", "{C7654FFC-C441-45D1-8187-5145F224FF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C66945F-5134-4B36-A3DF-11E861ADBEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C66945F-5134-4B36-A3DF-11E861ADBEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C66945F-5134-4B36-A3DF-11E861ADBEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C66945F-5134-4B36-A3DF-11E861ADBEF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7654FFC-C441-45D1-8187-5145F224FF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7654FFC-C441-45D1-8187-5145F224FF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7654FFC-C441-45D1-8187-5145F224FF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7654FFC-C441-45D1-8187-5145F224FF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45E97A1D-123B-43B9-86FC-CEC121C01163}
+	EndGlobalSection
+EndGlobal
