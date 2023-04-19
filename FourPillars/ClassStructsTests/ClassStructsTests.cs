@@ -180,5 +180,14 @@ namespace ClassStructsTests
             a.Descend(fall);
             Assert.That(a.Altitude, Is.EqualTo(expected));
         }
+
+        [Test]
+        public void SillyTest()
+        {
+            Assert.Fail();
+        }
+
     }
+
+    
 }
